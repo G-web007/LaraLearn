@@ -1,3 +1,13 @@
+Simple Ticket System:
+• When users visit the contact page, they will be able to submit a ticket to contact us.
+• Once they’ve created a ticket, the system will send us an email to let us know that there is a
+new ticket.
+• The ticket system automatically generates a unique link to let us access the ticket.
+• We can view all the tickets.
+• We can be able to reply, edit, change tickets’ status or delete them.
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
